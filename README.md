@@ -19,7 +19,7 @@ I build finance-related programs and manage communities at scale.
 - [Visit Server](https://odiumrp.ru)
 
 ### 💻 Tech Stack
-Python  • Streamlit • APIs • Server Management
+Python  • AppleDevelopersProgram • APIs • Server Management
 
 ### 📍 Based in
 Dubai, UAE
