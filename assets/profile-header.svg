@@ -1,0 +1,50 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Tsimur Karytski</title>
+  <desc id="desc">Product engineer and founder building connected digital products.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#070A09"/>
+      <stop offset="0.55" stop-color="#0A0F0D"/>
+      <stop offset="1" stop-color="#07100C"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="218" y1="64" x2="960" y2="240" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#77F2B0"/>
+      <stop offset="0.55" stop-color="#9BE7C2"/>
+      <stop offset="1" stop-color="#79D8F3"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="translate(995 46) rotate(151) scale(590 310)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#4BD492" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#4BD492" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M48 0H0V48" stroke="#DFFFF0" stroke-opacity="0.045"/>
+    </pattern>
+    <filter id="blur" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="18"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="300" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="24" fill="url(#glow)"/>
+  <rect x="1" y="1" width="1198" height="298" rx="23" stroke="#DFFFF0" stroke-opacity="0.12"/>
+  <rect width="1200" height="300" rx="24" fill="url(#grid)"/>
+
+  <circle cx="1080" cy="98" r="92" stroke="#77F2B0" stroke-opacity="0.1"/>
+  <circle cx="1080" cy="98" r="54" stroke="#77F2B0" stroke-opacity="0.13"/>
+  <circle cx="1080" cy="98" r="9" fill="#77F2B0" fill-opacity="0.8" filter="url(#blur)"/>
+  <circle cx="1080" cy="98" r="3.5" fill="#A9FFD0"/>
+
+  <g transform="translate(70 58)">
+    <rect width="40" height="40" rx="12" fill="#77F2B0"/>
+    <path d="M12 13H29V18H18V20.5H27V25H18V27H29V32H12V13Z" fill="#07100C"/>
+  </g>
+
+  <text x="70" y="154" fill="#F4F7F5" font-family="Inter, Arial, sans-serif" font-size="48" font-weight="650" letter-spacing="-1.8">Tsimur Karytski</text>
+  <text x="70" y="194" fill="url(#accent)" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="550" letter-spacing="0.2">FOUNDER · PRODUCT ENGINEER</text>
+  <text x="70" y="234" fill="#AAB5AF" font-family="Inter, Arial, sans-serif" font-size="17" font-weight="400">Building connected products from first principle to production.</text>
+
+  <g transform="translate(883 224)">
+    <circle cx="5" cy="5" r="5" fill="#77F2B0"/>
+    <text x="22" y="11" fill="#C7D1CC" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="500" letter-spacing="1.6">DUBAI · EXILEON</text>
+  </g>
+</svg>
